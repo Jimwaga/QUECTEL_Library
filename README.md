@@ -1,2 +1,2 @@
-# QUECTEL_U20_Library
+# QUECTEL_Library
 Quectel U20 GPRS/GSM
